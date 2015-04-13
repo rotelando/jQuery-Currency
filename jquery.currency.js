@@ -124,6 +124,7 @@
                 if (bc == 'MXN') currency_before = '$';
                 if (bc == 'MZN') currency_before = 'MT';
                 if (bc == 'NAD') currency_before = '$';
+                if (bc == 'NGN') currency_before = '₦';
                 if (bc == 'ANG') currency_before = 'f';
                 if (bc == 'NZD') currency_before = '$';
                 if (bc == 'NIO') currency_before = 'C$';
